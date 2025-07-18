@@ -1,9 +1,38 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/egS6fnZAdzk
+# 💰 Wealth
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+An AI-powered personal finance platform that helps users track, manage, and optimize their budget intelligently. Wealth uses cutting-edge technologies to give personalized insights and automate financial decisions.
 
-### Make sure to create a `.env` file with following variables -
+---
+
+## 🚀 Features
+
+- 🔐 User authentication (Supabase)
+- 📊 Smart expense tracking and visual analytics
+- 🤖 AI-powered financial recommendations (Gemini API)
+- 💡 Budgeting tips based on real-time data
+- 📈 Expense trends and reports
+- ⚡ Fast and responsive UI using Next.js + Tailwind
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: Next.js, Tailwind CSS, ShadCN UI
+- **Backend**: Supabase, Node.js (via API Routes or external server)
+- **AI**: Gemini API (for financial suggestions)
+- **Auth & DB**: Supabase
+- **Deployment**: Vercel
+
+---
+
+## 📦 Getting Started
+
+Clone the repo:
+
+```bash
+git clone https://github.com/ShubhayuChakraborty/Wealth.git
+cd Wealth
+
 
 ```
 DATABASE_URL=
